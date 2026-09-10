@@ -15,11 +15,14 @@ body {
 }
 
 /* h1 {} */
-
+div{
+  background: rgba(4, 170, 109, 0.3)
+}
 p {
   max-width: 60ch;
 
   /*text-align: center; */
+  background-color: blue, 0.3
 
 }
 
