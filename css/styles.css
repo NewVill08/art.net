@@ -1,3 +1,18 @@
-body{
-  text-align: center;      
+body {
+  text-align: center;
+      /*background-image: url("images/overdrive.gif");*/
+      background-attachment: fixed; 
+      background-size: 175px;
+      font-family: "Pixelify+Sans";
+}
+
+/* h1 {} */
+
+p {
+  max-width: 60ch;
+
+  /*text-align: center; */
+  p.dashed {
+    border-style: dashed;
+  }
 }
