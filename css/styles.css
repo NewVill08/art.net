@@ -21,7 +21,7 @@ div{
 p {
   max-width: 60ch;
 
-  /*text-align: center; */
+  text-align: center; 
   background-color: blue, 0.3
 
 }
