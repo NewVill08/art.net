@@ -1,10 +1,10 @@
 body {
   text-align: center;
-  background-image: url("images/overdrive.gif"), url("images/uma-musume-meep.gif");
+  background-image:url("images/uma-musume-meep.gif"), url("images/overdrive.gif") ;
   background-attachment: fixed, fixed;
-  background-position: center, right bottom;
-  baground-repeat: repeat, no-repeat;
-  background-size: 175px, 100px;
+  background-position: right bottom, center;
+  baground-repeat: no-repeat, repeat;
+  background-size: 100px, 175px;
   font-family: "Pixelify Sans", sans-serif;
 
 }
